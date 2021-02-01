@@ -35,7 +35,7 @@ will erase and create new database and table in order to avoid
 conflict.
 
 
-Output:
+# Output:
 
 Successfully connected to the localhost
 
