@@ -20,17 +20,29 @@ will erase and create new database and table in order to avoid
 conflict.
 
 Output:
+
 Successfully connected to the localhost
+
 taskdatabase is created.....
+
 You're connected to database:  ('taskdatabase',)
+
 Creating table....
+
 task table is created....
+
 Data Transferring......: 0
+
 Data Transferring......: 1
+
 Data Transferring......: 2
+
 Data Transferring......: 3
+
 ..........................
+
 ..........................
+
 ..........................
 
 
