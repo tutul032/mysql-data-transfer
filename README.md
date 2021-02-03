@@ -1,4 +1,4 @@
-# mysql-data-transfer
+# How to transfer CSV data to XAMPP Mysql sever
 
 Download and install the XAMPP free software version 8.0.1
 
